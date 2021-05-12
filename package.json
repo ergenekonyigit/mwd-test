@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/ergenekonyigit/mwd-test#readme",
   "dependencies": {
-    "mathjs": "^3.16.5",
+    "mathjs": "^7.5.1",
     "tslib": "~1.8.0"
   }
 }
